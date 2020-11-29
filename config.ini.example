@@ -1,0 +1,8 @@
+TOKEN = ; Discord Token
+PREFIX = !
+
+ADMIN_ROLE = ; Role ID
+BOT_ROLE = ; Role ID
+TESTER_ROLE = ; Role ID
+
+LOG_CHANNEL = ; Text Channel ID
